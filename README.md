@@ -13,10 +13,10 @@ You will need node.js and npm installed.
 Create a folder with the given files inside
 
 <h2>2.Install Dependencies</h2>
-Open your terminal in root directory and type:
+Open your terminal in root directory and type: <br>
 npm install
 
 <h2>3.Execute Unit Test</h2>
-Type in your terminal:
-npm test
+Type in your terminal: <br>
+npm test <br>
 Jest will automatically run the test case and show you results.
